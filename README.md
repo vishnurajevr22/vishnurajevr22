@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180"/>
 
 <br/>
 
 <!-- Name drops left to right word by word -->
-[![](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=52&duration=600&pause=300&color=A855F7&center=true&vCenter=true&multiline=false&repeat=false&width=500&lines=V)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=52&duration=600&pause=300&color=A855F7&center=true&vCenter=true&multiline=false&repeat=false&width=500&lines=Vishnuraj)](https://git.io/typing-svg)
 
-[![](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=52&duration=600&pause=300&color=A855F7&center=true&vCenter=true&multiline=false&repeat=false&width=500&lines=V+R)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=52&duration=600&pause=300&color=A855F7&center=true&vCenter=true&multiline=false&repeat=false&width=500&lines=VR)](https://git.io/typing-svg)
 
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=500&pause=200&color=e9d5ff&center=true&vCenter=true&repeat=false&width=600&lines=Computer+Science+Graduate+|+Python+%26+Frontend+Developer)](https://git.io/typing-svg)
 
